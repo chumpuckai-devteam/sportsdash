@@ -1,0 +1,16 @@
+# Flutter
+.DS_Store
+*.log
+pubspec.lock
+
+# Android
+/android/.gradle
+/android/local.properties
+
+# iOS
+/ios/Pods
+/ios/.symlinks
+/ios/Flutter/App.framework
+
+# Web
+/build/web
