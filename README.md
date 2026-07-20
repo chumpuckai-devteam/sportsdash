@@ -83,7 +83,8 @@ lib/
 1. ✅ Basic dashboard + scores  
 2. ✅ IPTV player (M3U / Xtream + demo streams)  
 3. ✅ Matching logic  
-4. ⬜ Polish & deploy (notifications, PIP/casting, full EPG, TV remote focus)
+4. ⬜ Polish & deploy (notifications, PIP/casting, full EPG, TV remote focus)  
+5. ⬜ Movie ratings (RT-style) for now-playing IPTV movies — guide + player
 
 ## Notes
 
